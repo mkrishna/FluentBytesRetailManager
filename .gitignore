@@ -348,3 +348,18 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/FluentBytesRetailManager/Properties/Default.rd.xml
+/FluentBytesRetailManager/Properties/AssemblyInfo.cs
+/FluentBytesRetailManager/Package.appxmanifest
+/FluentBytesRetailManager/MainPage.xaml.cs
+/FluentBytesRetailManager/MainPage.xaml
+/FluentBytesRetailManager/FluentBytesRetailManager.csproj
+/FluentBytesRetailManager/Assets/Wide310x150Logo.scale-200.png
+/FluentBytesRetailManager/Assets/StoreLogo.png
+/FluentBytesRetailManager/Assets/Square44x44Logo.targetsize-24_altform-unplated.png
+/FluentBytesRetailManager/Assets/Square44x44Logo.scale-200.png
+/FluentBytesRetailManager/Assets/Square150x150Logo.scale-200.png
+/FluentBytesRetailManager/Assets/SplashScreen.scale-200.png
+/FluentBytesRetailManager/Assets/LockScreenLogo.scale-200.png
+/FluentBytesRetailManager/App.xaml.cs
+/FluentBytesRetailManager/App.xaml
